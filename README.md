@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 INTRODUCE
-I am a **Fresher PHP Developer** and I have had a strong passion for technology from an early age.  
+I am a **Fresher PHP Developer** and I have had a strong passion for technology.  
 I am eager to learn, absorb knowledge quickly, and continuously improve myself.  
 I always update the latest knowledge for both myself and those around me.
 
