@@ -1,7 +1,7 @@
-<h1 >Hi there 👋</h1>
-<h3 >I'm <b>Phạm Trung Nghĩa</b> (pham-trung-nghia)</h3>
+<h1>Hi there 👋</h1>
+<h3>I'm <b>Phạm Trung Nghĩa</b> (pham-trung-nghia)</h3>
 
-<p >
+<p>
   💻 Fresher PHP Developer • 🚀 Passion for Technology
 </p>
 
@@ -34,7 +34,14 @@ I always update the latest knowledge for both myself and those around me.
 ### Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/API-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![API](https://img.shields.io/badge/REST_API-20232A?style=flat-square&logo=postman&logoColor=orange)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+### Tools & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
@@ -42,7 +49,6 @@ I always update the latest knowledge for both myself and those around me.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-
 
 ---
 
@@ -56,9 +62,8 @@ I always update the latest knowledge for both myself and those around me.
 ### Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-
 ---
 
-<p >
+<p>
   ✨ Thanks for visiting my GitHub profile ✨
 </p>
