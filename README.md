@@ -2,13 +2,13 @@
 <h3>I'm <b>Phạm Trung Nghĩa</b> (pham-trung-nghia)</h3>
 
 <p>
-  💻 Fresher PHP Developer • 🚀 Passion for Technology
+  💻 Junior PHP Developer • 🚀 Passion for Technology
 </p>
 
 ---
 
 ## 👨‍💻 INTRODUCE
-I am a **Fresher PHP Developer** and I have had a strong passion for technology.  
+I am a **Junior PHP Developer** and I have had a strong passion for technology.  
 I am eager to learn, absorb knowledge quickly, and continuously improve myself.  
 I always update the latest knowledge for both myself and those around me.
 
