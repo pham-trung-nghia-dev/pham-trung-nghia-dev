@@ -8,9 +8,12 @@
 ---
 
 ## 👨‍💻 INTRODUCE
-I am a **Junior PHP Developer** and I have had a strong passion for technology.  
-I am eager to learn, absorb knowledge quickly, and continuously improve myself.  
-I always update the latest knowledge for both myself and those around me.
+I am a **Junior PHP Developer** passionate about building modern web applications.
+
+- 🔭 Currently working with **Laravel, REST API, and Redis**
+- 🌱 Learning **React, Next.js, and modern frontend architecture**
+- 💡 Interested in **Fullstack development and system optimization**
+- 🚀 Always improving coding practices and exploring new technologies
 
 ---
 
