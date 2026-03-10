@@ -16,9 +16,9 @@ I am a **Junior PHP Developer** passionate about building modern web application
 - 🚀 Always improving coding practices and exploring new technologies
 
 ---
-
 ## 🌐 PORTFOLIO
-🔗 Updating...
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/pham.nghia.598788)
 
 ---
 
