@@ -20,7 +20,7 @@ I am a **Fullstack Developer** with strong focus on **Backend (Laravel)** and re
 
 ## 💼 WORK EXPERIENCE
 
-### 🔹 FPT Telecom – Intern / Web Developer
+### 🔹 FPT Telecom – Web Developer
 *(03/2025 – 2/2026)*  
 - Integrated and consumed **RESTful APIs**
 - Designed **MySQL database schemas**
