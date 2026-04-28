@@ -21,7 +21,7 @@ I am a **Fullstack Developer** with strong focus on **Backend (Laravel)** and re
 ## 💼 WORK EXPERIENCE
 
 ### 🔹 FPT Telecom – Web Developer
-*(03/2025 – 2/2026)*  
+*(03/2025 – 12/2025)*  
 - Integrated and consumed **RESTful APIs**
 - Designed **MySQL database schemas**
 - Developed backend features using **Laravel**
@@ -29,7 +29,7 @@ I am a **Fullstack Developer** with strong focus on **Backend (Laravel)** and re
 ---
 
 ### 🔹 Ciiclo – Web Developer
-*(03/2026 – Present)*  
+*(01/2026 – Present)*  
 - Developed **fullstack applications** using Laravel & Vue.js  
 - Built frontend with **Next.js & Vue.js**
 - Designed and integrated **RESTful & GraphQL APIs**
