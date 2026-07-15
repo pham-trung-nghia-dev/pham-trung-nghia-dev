@@ -28,14 +28,6 @@ My main focus is **Backend Development**, including API development, database de
 
 ## 💼 Work Experience
 
-### 🔹 BIN Corporation Group — Fullstack Developer
-`06/2026 – Present`
-
-- Developed enterprise applications using **PHP (Laravel, Phalcon), Python, and Next.js**
-- Built **RESTful APIs** and integrated payment gateways and third-party services
-- Used **Docker and Docker Compose** to build and run containerized development environments
-- Developed ERP modules, optimized databases, and improved system performance
-
 ### 🔹 Ciiclo — Fullstack Developer
 `01/2026 – 05/2026`
 
