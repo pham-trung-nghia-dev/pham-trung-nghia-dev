@@ -26,24 +26,6 @@ My main focus is **Backend Development**, including API development, database de
 
 ---
 
-## 💼 Work Experience
-
-### 🔹 Ciiclo — Fullstack Developer
-`01/2026 – 05/2026`
-
-- Developed fullstack applications using **Laravel, Next.js, and Vue.js**
-- Built **RESTful and GraphQL APIs** for frontend and backend integration
-- Worked with **MySQL and PostgreSQL** on feature development and system maintenance
-
-### 🔹 FPT Telecom — Web Developer
-`01/2025 – 12/2025`
-
-- Developed and maintained internal web applications using **Laravel and MySQL**
-- Built and integrated **RESTful APIs** for internal systems and third-party services
-- Optimized databases, fixed bugs, and maintained production applications
-
----
-
 ## 🚀 Featured Projects
 
 ### 🛍️ Fashion E-Commerce Platform
