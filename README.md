@@ -66,7 +66,7 @@ https://github.com/pham-trung-nghia-dev/eward-portal
 - Implemented authentication, authorization, and backend business logic
 
 **GitHub:**  
-https://github.com/pham-trung-nghia-dev/WebBanHang
+https://github.com/pham-trung-nghia-dev/laravel-ecommerce
 
 ---
 
