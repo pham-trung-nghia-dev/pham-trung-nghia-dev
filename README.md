@@ -53,7 +53,7 @@ https://github.com/pham-trung-nghia-dev/fashion-ecommerce
 https://ewardabc.online/
 
 **GitHub:**  
-https://github.com/pham-trung-nghia-dev/do-an-tot-nghiep
+https://github.com/pham-trung-nghia-dev/eward-portal
 
 ---
 
